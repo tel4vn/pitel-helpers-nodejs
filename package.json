@@ -1,0 +1,14 @@
+{
+  "name": "pitelhelpers-nodejs",
+  "version": "1.0.0",
+  "description": "A helper for generating access token for pitelSDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Huy Do",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
